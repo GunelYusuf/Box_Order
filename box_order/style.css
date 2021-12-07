@@ -1,0 +1,47 @@
+
+.container{
+    margin-top: 30px;
+    background-color: papayawhip;
+    height: 400px;
+    text-align: center;
+}
+h3{
+    color:chocolate;
+    margin-top: 10px;
+   
+}
+.box{
+    background-color:sienna;
+    width: 100px;
+    height: 100px;
+    margin-top: 40px;
+    margin: 25px auto;
+    cursor: pointer;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-weight:700;
+    font-size: 24px;
+    color: wheat;
+    cursor: pointer;
+}
+
+.box img{
+    width: 110px;
+    height: 100px;
+}
+
+.area{
+    background-color:orange;
+    width: 100px;
+    height: 100px;
+    margin: 25px auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-weight:700;
+    font-size: 24px;
+    color:#fff;
+    cursor: pointer;
+}
+  
